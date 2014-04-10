@@ -1,7 +1,7 @@
 {
   "name": "mean_stack_skeleton",
   "version": "0.0.0",
-  "description": "",
+  "description": "MEAN Stack Bones",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
